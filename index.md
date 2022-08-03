@@ -89,3 +89,12 @@ When your theme is released, only the files in `_layouts`, `_includes`, and `_sa
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
+```
+---
+layout: page
+title: Advertiser Homepage
+navigation: 3
+---
+```
